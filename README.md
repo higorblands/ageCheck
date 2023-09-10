@@ -1,4 +1,4 @@
-# Age-Check
+# Age Check
 Age Check is a simple project for study Inputs with javascript logic.
 
 1 - Download
@@ -7,7 +7,7 @@ Age Check is a simple project for study Inputs with javascript logic.
 
 3 - Enjoy
 
-Preview : https://higorblands.github.io/Age-Check/
+Preview : https://higorblands.github.io/ageCheck/
 
 How to use ?
 
